@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #ffa500;
+}
+
+.container {
+    max-width: 25rem;
+}
+.container h1 {
+    color: #fff;
+}
+#search input {
+   background: #ffa500;
+}
+
+.list-group-item {
+    background: #ffae19;
+    color: #fff;
+}
+
+.list-group-item .delete {
+    color: white;
+}
+
+ p {
+    color: #fff;
+}
+
+#add input {
+    background: #ffa500;
+ }
+
